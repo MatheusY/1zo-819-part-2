@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 21 11:50:18 BRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0178-f4e9-0f29-00000f3026b8 
+on database directory /home/matheus/Dev/Projects/1zo-819-part-2/db/derby/DatabaseDemo with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/matheus/Dev/Projects/1zo-819-part-2/lib/derby-10.15.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.10+9-Ubuntu-0ubuntu1.20.04
+user.dir=/home/matheus/Dev/Projects/1zo-819-part-2
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-72-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
